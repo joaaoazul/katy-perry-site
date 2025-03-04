@@ -11,7 +11,7 @@ function LandingPage() {
       </nav>
       {/* Conteúdo Central */}
       <div className="landing-content">
-        <h1 className="landing-title">Preparação para a Tour 1432</h1>
+        <h1 className="landing-title">Lifetimes Tour Prep</h1>
       </div>
       {/* Estilos inline para reforçar a identidade visual */}
       <style jsx>{`

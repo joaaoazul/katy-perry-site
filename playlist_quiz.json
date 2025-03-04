@@ -1,14 +1,6 @@
-[
-    {
-      "question": "Qual foi o primeiro grande hit da Katy Perry?",
-      "options": ["I Kissed a Girl", "Hot n Cold", "Firework", "Teenage Dream"],
-      "answer": "I Kissed a Girl"
-    },
-    {
-      "question": "Qual álbum tem a música 'Roar'?",
-      "options": ["One of the Boys", "Teenage Dream", "Prism", "Witness"],
-      "answer": "Prism"
-    },
+{
+  "playlist_name": "Katy Perry : The LIFETIMES Tour 2025 ",
+  "quiz_questions": [
     {
       "question": "Qual dessas músicas foi lançada por Katy Perry?",
       "options": [
@@ -210,5 +202,4 @@
       "answer": "2020"
     }
   ]
-
-  
+}
